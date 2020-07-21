@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24374" started-at="2020-07-19T10:51:48Z" finished-at="2020-07-19T10:52:13Z">
+    <groups>
+    </groups>
+    <test name="AmazonLoginTest" duration-ms="24374" started-at="2020-07-19T10:51:48Z" finished-at="2020-07-19T10:52:13Z">
+      <class name="TestCase.AmazonLoginTest">
+        <test-method status="PASS" signature="appstart()[pri:0, instance:TestCase.AmazonLoginTest@13acb0d1]" name="appstart" is-config="true" duration-ms="17250" started-at="2020-07-19T10:51:48Z" finished-at="2020-07-19T10:52:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appstart -->
+        <test-method status="PASS" signature="amazonstart()[pri:1, instance:TestCase.AmazonLoginTest@13acb0d1]" name="amazonstart" duration-ms="5554" started-at="2020-07-19T10:52:06Z" finished-at="2020-07-19T10:52:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonstart -->
+        <test-method status="PASS" signature="clicklogin()[pri:2, instance:TestCase.AmazonLoginTest@13acb0d1]" name="clicklogin" duration-ms="896" started-at="2020-07-19T10:52:11Z" finished-at="2020-07-19T10:52:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklogin -->
+        <test-method status="PASS" signature="appquit()[pri:0, instance:TestCase.AmazonLoginTest@13acb0d1]" name="appquit" is-config="true" duration-ms="633" started-at="2020-07-19T10:52:12Z" finished-at="2020-07-19T10:52:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appquit -->
+      </class> <!-- TestCase.AmazonLoginTest -->
+    </test> <!-- AmazonLoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>
